@@ -1,0 +1,1 @@
+{"status":0,"id":"3c8737daea2ee00bd2abb5405ab2014a-1","hypotheses":[{"utterance":"hello google","confidence":0.7105495}]}
